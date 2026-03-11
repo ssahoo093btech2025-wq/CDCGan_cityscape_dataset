@@ -12,7 +12,7 @@ This repository contains a **Conditional GAN (Pix2Pix)** project for **paired im
 Here are some example pairs from the dataset.  
 The first image shows **training samples**, the second shows **validation samples**.
 
-![Dataset Samples](samplecdc.png)  
+![Dataset Samples](results/samplecdc.png)  
 *This slide contains 2 training and 2 validation label → real image pairs.*
 
 ---
@@ -21,7 +21,7 @@ The first image shows **training samples**, the second shows **validation sample
 
 Here is a sample output from the Conditional GAN (Pix2Pix):
 
-![Model Result](final_image.png)  
+![Model Result](results/final_image.png)  
 *Shows Input Label → Generated Image → Real Image.*
 
 ---
