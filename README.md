@@ -30,4 +30,11 @@ Here is a sample output from the Conditional GAN (Pix2Pix):
 
 - Only a small number of samples are included for demonstration purposes.  
 - The full Cityscapes dataset can be downloaded [here](https://www.cityscapes-dataset.com/).  
-- The model uses a **U-Net generator** and **PatchGAN discriminator** for high-quality image-to-image translation.  
+- The model uses a **U-Net generator** and **PatchGAN discriminator** for high-quality image-to-image translation.
+
+## Author
+
+**Sagarika Sahoo**
+
+- GitHub: https://github.com/sagrika-dev-sys
+- LinkedIn: https://linkedin.com/in/sagarikasahoo2006
